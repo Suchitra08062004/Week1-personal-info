@@ -47,7 +47,8 @@ YOUR INFORMATION
 ==============================
 Name   : Ginnikunta Suchitra
 
-Age    : 21 (252 months old)
+Age   : 21 (252 months old)
+
 ------------------------------
 City : Hyderabad
 
