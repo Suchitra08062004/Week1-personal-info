@@ -51,8 +51,8 @@ Age   : 21 (252 months old)
 
 ------------------------------
 City : Hyderabad
+Hobby  : Cooking
 
-Hobby : Cooking
 ==============================
 Favorite Food: biryani
 
