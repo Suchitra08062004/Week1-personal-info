@@ -39,18 +39,22 @@ python personal_info.py
 Please tell me about yourself:
 ------------------------------
 Enter your favorite food: biryani
+
 Enter your favorite color: black
 
 ==============================
 YOUR INFORMATION
 ==============================
 Name   : Ginnikunta Suchitra
+
 Age    : 21 (252 months old)
 ------------------------------
 City : Hyderabad
+
 Hobby : Cooking
 ==============================
 Favorite Food: biryani
+
 Favorite Color: black
 
 ========================================
