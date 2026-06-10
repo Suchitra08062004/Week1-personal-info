@@ -1,0 +1,17 @@
+Test Case 1
+Favorite Food: Pizza
+Favorite Color: Blue
+
+Expected Output:
+Favorite Food: Pizza
+Favorite Color: Blue
+
+----------------------------
+
+Test Case 2
+Favorite Food:
+Favorite Color:
+
+Expected Output:
+Favorite Food: Input cannot be empty
+Favorite Color: Input cannot be empty
